@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Console log
     console.log('%c🎬 HNL Media', 'background: linear-gradient(135deg, #8B3DFF, #00D9FF); color: white; font-size: 20px; padding: 15px 30px; border-radius: 10px; font-weight: bold;');
     console.log('%cWebsite v2.0 - Multi-page Architecture', 'color: #8B3DFF; font-size: 14px; font-weight: bold;');
-    console.log('%c🌐 Visit: https://www.facebook.com/PACEMULTIMEDIA', 'color: #00D9FF; font-size: 12px;');
+    console.log('%c🌐 Visit: https://www.facebook.com/share/1E6RFnb6fr/', 'color: #00D9FF; font-size: 12px;');
 });
 
 // Utility Functions
